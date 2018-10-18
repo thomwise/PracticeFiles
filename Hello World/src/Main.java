@@ -17,8 +17,16 @@ public class Main {
         System.out.println("My car's license plate: " + myCar.licensePlate);
         System.out.println("Rachel's car's license plate: " + rachelCar.licensePlate);
 
-        System.out.println(myCar.paintColor.toString());
+        System.out.println(myCar.paintColor);
         myCar.changePaintColor(Color.RED);
         System.out.println(myCar.paintColor.toString());
+
+        double myCarSpeed = 50;
+        myCarSpeed = myCar.speedingUp(myCarSpeed);
+        System.out.println(myCarSpeed);
+
+        String s = "dog";
+        String replacedF = s.replace("d","f");
+        System.out.println(replacedF);
     }
 }
