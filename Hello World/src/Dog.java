@@ -20,6 +20,6 @@ public class Dog {
     }
 
     public void fetch() {
-
+        this.fetchCounter = (this.fetchCounter + 1) % 3;
     }
 }
