@@ -1,8 +1,29 @@
 import java.awt.*;
+import java.lang.reflect.Array;
+import java.util.concurrent.Future;
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class Main {
 
     public static void main(String[] args) {
+        Dog d = new Dog("Sherlock", 7);
+
+        d.woof();
+
+        int dogYears = d.getAge();
+        System.out.println(dogYears + " dog years.");
+
+        d.fetch();
+        d.fetch();
+        d.fetch();
+        d.fetch();
+
+        System.out.println("All dogs poop: " + d.doAllDogsPoop());
+    }
+
+
+    /*public static void main(String[] args) {
         System.out.println("Hello Worlrd");
         System.out.println("Kathryn");
 
@@ -28,5 +49,5 @@ public class Main {
         String s = "dog";
         String replacedF = s.replace("d","f");
         System.out.println(replacedF);
-    }
+    }*/
 }

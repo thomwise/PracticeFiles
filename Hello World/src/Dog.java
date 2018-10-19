@@ -21,5 +21,12 @@ public class Dog {
 
     public void fetch() {
         this.fetchCounter = (this.fetchCounter + 1) % 3;
+        String item = this.allFetchedItems[this.fetchCounter];
+        System.out.println(name + " fetched a " + item + ".");
+    }
+
+    public boolean doAllDogsPoop() {
+        allDogsPoop = true;
+        return true;
     }
 }
