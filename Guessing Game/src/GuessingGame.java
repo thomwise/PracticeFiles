@@ -7,7 +7,7 @@ public class GuessingGame {
         Random rand = new Random();
         Scanner sc = new Scanner(System.in);
 
-        int numberToGuess = rand.nextInt(1000);
+        int numberToGuess = rand.nextInt(1001);
         int numberOfTries = 0;
         int guess;
         boolean win = false;
