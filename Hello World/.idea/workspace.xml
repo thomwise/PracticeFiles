@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c893a64a-94e3-4750-a11e-c431aa6c545e" name="Default Changelist" comment="input dog class">
-      <change afterPath="$PROJECT_DIR$/../Control Flow/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Control Flow/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Control Flow/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Control Flow/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Control Flow/Control Flow.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Control Flow/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heads or Tails/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heads or Tails/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heads or Tails/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heads or Tails/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Heads or Tails/Heads or Tails.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Control Flow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Flow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Control Flow/out/production/Control Flow/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Flow/out/production/Control Flow/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Control Flow/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Flow/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,6 +23,7 @@
     <session id="-665689671">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="2" />
@@ -56,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-152">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="323">
+              <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,7 +142,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540014743945" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540167976144" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -190,6 +193,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="399" y="31" width="1400" height="960" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25333333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -201,7 +205,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32932693" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32932693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -257,8 +261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="323">
+          <caret line="34" column="26" lean-forward="true" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

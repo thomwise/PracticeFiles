@@ -3,6 +3,7 @@ import java.lang.reflect.Array;
 import java.util.concurrent.Future;
 import java.util.Scanner;
 import java.util.Arrays;
+import java.util.Random;
 
 public class Main {
 
@@ -24,6 +25,13 @@ public class Main {
         }
 
         System.out.println("Thanks for using this program!");
+
+        double power = Math.pow(8, 5);
+        System.out.println(power);
+
+        Random rand = new Random();
+        int randomNumber = rand.nextInt();
+        System.out.println(randomNumber);
     }
 
 }
