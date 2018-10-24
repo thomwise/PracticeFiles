@@ -13,7 +13,7 @@ public class Coin {
 
     public void flip() {
         Random rand = new Random();
-        faceUp = new nextInt(2);
+        faceUp = rand.nextInt(2);
     }
 
     public String getFaceUp() {

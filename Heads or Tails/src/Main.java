@@ -6,7 +6,12 @@ public class Main {
 
     public static void main(String[] args) {
 
-        public class Coin
+        Coin c = new Coin(Coin.HEADS);
+        System.out.println("Initial: " + c.getFaceUp());
 
+        for (int i = 0; i < 10; i++) {
+            c.flip();
+            System.out.println("After flip: " + c.getFaceUp());
+        }
     }
 }
