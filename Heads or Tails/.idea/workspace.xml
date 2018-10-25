@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7145dd60-6336-43ec-b4d8-85c79449aa28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Dice Roll/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dice Roll/src/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dice Roll/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Guessing Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Guessing Game/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank Account/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank Account/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roll/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dice Roll/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heads or Tails/Coin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Heads or Tails/Coin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heads or Tails/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Heads or Tails/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,12 +18,13 @@
     <session id="-1874924443">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -56,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,27 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Coin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="266">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/util/Random.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="105" selection-start-line="105" selection-end-line="105" />
-              <folding>
-                <element signature="e#3513#3514#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -125,6 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -142,11 +123,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540357118082" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bank Account" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -192,9 +173,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="399" y="31" width="1400" height="960" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26035503" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26405326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -243,6 +223,16 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -255,22 +245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Coin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="266">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
