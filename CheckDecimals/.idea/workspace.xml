@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="131f049e-cf41-47d2-87d9-619a359bf548" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thomwise/Main.java" afterDir="false" />
+    <list default="true" id="6f1b304c-6c20-4cc8-a374-ef5f38c0ba2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BarkingDog/src/BarkingDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecimalComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYear/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYear/src/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/src/MegaBytesConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/out/production/KeywordsAndExpressions/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/out/production/KeywordsAndExpressions/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/src/com/thomwise/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,40 +21,58 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="10728903">
+    <session id="-796853376">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="999" />
+          <entry key="java" value="355" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="999" />
+          <entry key="JAVA" value="355" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.file.types.open" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/DecimalComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+            <state relative-caret-position="285">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+              <folding>
+                <element signature="e#81#82#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -53,7 +80,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/thomwise/Main.java" />
+        <option value="$PROJECT_DIR$/src/DecimalComparator.java" />
       </list>
     </option>
   </component>
@@ -69,13 +96,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CheckDecimals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CheckDecimals" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541707234511" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541796601404" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -90,19 +127,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.thomwise.Main" />
-      <module name="KeywordsAndExpressions" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+    <configuration name="DecimalComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecimalComparator" />
+      <module name="CheckDecimals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DecimalComparator" />
       </list>
     </recent_temporary>
   </component>
@@ -111,16 +145,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="131f049e-cf41-47d2-87d9-619a359bf548" name="Default Changelist" comment="" />
-      <created>1541645619533</created>
+      <changelist id="6f1b304c-6c20-4cc8-a374-ef5f38c0ba2c" name="Default Changelist" comment="" />
+      <created>1541795085002</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541645619533</updated>
+      <updated>1541795085002</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="239" y="31" width="1655" height="960" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -148,17 +183,21 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.40696952" />
+      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.40696952" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/DecimalComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        <state relative-caret-position="285">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
