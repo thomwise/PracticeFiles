@@ -13,9 +13,16 @@ public class ForLoop {
 //            System.out.println("10000 at " + i + "% interest = " + String.format("%.1f", calculateInterest(10000, i)));
 //        }
 
-        for(int i = 0; i < 1000; i++) {
+        int count = 0;
+
+        for(int i = 50; i < 1000; i++) {
             if(isPrime(i)) {
-                System.out.println("Prime numbers between 1 and 1000 are: " + i);
+                count++;
+                System.out.println("Number " + i + " is a prime number.");
+                if(count == 10) {
+                    System.out.println("Exiting for loop.");
+                    break;
+                }
             }
         }
 

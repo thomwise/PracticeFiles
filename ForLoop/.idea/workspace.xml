@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02c1d772-0a98-44d0-873e-25f44d9f724e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PrintNumberInWord/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrintNumberInWord/src/PrintNumberInWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeapYear/out/production/LeapYear/LeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/out/production/LeapYear/LeapYear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeapYear/src/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/src/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForLoop.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +18,8 @@
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.29" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,12 +34,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="689" />
+          <entry key="java" value="813" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="689" />
+          <entry key="JAVA" value="813" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -54,12 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ForLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding>
-                <element signature="e#940#941#0" expanded="true" />
-                <element signature="e#992#993#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="399">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -158,6 +150,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="225" y="31" width="1695" height="960" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -185,7 +178,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.29508197" />
+      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.29508197" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -194,12 +187,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ForLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="e#940#941#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="399">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
         </state>
       </provider>
     </entry>
