@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66ce14ae-cebb-4c7d-bd52-78de48320bfd" name="Default Changelist" comment="" />
+    <list default="true" id="02c1d772-0a98-44d0-873e-25f44d9f724e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PrintNumberInWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrintNumberInWord/src/PrintNumberInWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/out/production/LeapYear/LeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/out/production/LeapYear/LeapYear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/src/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/src/LeapYear.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,12 +17,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-562142898">
+    <session id="-361543883">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -30,24 +38,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="464" />
+          <entry key="java" value="689" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="464" />
+          <entry key="JAVA" value="689" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DayOfTheWeekChallenge.java">
+        <entry file="file://$PROJECT_DIR$/src/ForLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="342">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <element signature="e#940#941#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,19 +79,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DayOfTheWeekChallenge.java" />
+        <option value="$PROJECT_DIR$/src/ForLoop.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="225" />
     <option name="y" value="31" />
-    <option name="width" value="1655" />
+    <option name="width" value="1695" />
     <option name="height" value="960" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -89,8 +99,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="DayOfTheWeekChallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DayOfTheWeekChallenge" type="462c0819:PsiDirectoryNode" />
+              <item name="ForLoop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ForLoop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -101,7 +111,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541989385573" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542222281769" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -119,16 +130,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="DayOfTheWeekChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DayOfTheWeekChallenge" />
-      <module name="DayOfTheWeekChallenge" />
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoop" />
+      <module name="ForLoop" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DayOfTheWeekChallenge" />
+        <item itemvalue="Application.ForLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -137,16 +148,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="66ce14ae-cebb-4c7d-bd52-78de48320bfd" name="Default Changelist" comment="" />
-      <created>1541986784085</created>
+      <changelist id="02c1d772-0a98-44d0-873e-25f44d9f724e" name="Default Changelist" comment="" />
+      <created>1542078710489</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541986784085</updated>
+      <updated>1542078710489</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="225" y="31" width="1655" height="960" extended-state="0" />
+    <frame x="225" y="31" width="1695" height="960" extended-state="0" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -154,7 +165,7 @@
       <window_info id="Learn" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" weight="0.2495333" />
+      <window_info content_ui="combo" id="Project" order="6" weight="0.2526447" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -174,17 +185,21 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.40696952" />
+      <window_info anchor="right" id="Run" order="8" weight="0.29508197" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DayOfTheWeekChallenge.java">
+    <entry file="file://$PROJECT_DIR$/src/ForLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="342">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#940#941#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

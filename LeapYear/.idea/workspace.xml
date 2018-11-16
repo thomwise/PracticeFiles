@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49582593-f0fd-4e3b-b688-48adb28e4d79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../BarkingDog/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BarkingDog/src/BarkingDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MegaBytesConverter/src/MegaBytesConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/out/production/KeywordsAndExpressions/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/out/production/KeywordsAndExpressions/com/thomwise/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/src/com/thomwise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrintNumberInWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrintNumberInWord/src/PrintNumberInWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeapYear.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,9 +18,9 @@
     <session id="1116604108">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,24 +35,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="557" />
+          <entry key="java" value="936" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="557" />
+          <entry key="JAVA" value="936" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LeapYear.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            <state relative-caret-position="342">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+              <folding>
+                <element signature="e#68#69#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,7 +81,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="239" />
+    <option name="x" value="190" />
     <option name="y" value="31" />
     <option name="width" value="1655" />
     <option name="height" value="960" />
@@ -91,24 +91,11 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeapYear" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeapYear" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541795041695" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542079820610" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ForLoop" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,7 +137,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="239" y="31" width="1655" height="960" extended-state="0" />
+    <frame x="190" y="31" width="1655" height="960" extended-state="0" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -178,7 +165,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.31736153" />
+      <window_info anchor="right" id="Run" order="8" weight="0.31673926" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -187,8 +174,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/LeapYear.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        <state relative-caret-position="342">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
