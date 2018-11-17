@@ -27,6 +27,7 @@ public class Main {
 
         int number = 4;
         int finishNumber = 20;
+        int evenNumbersFound = 0;
 
         while(number <= finishNumber) {
 
@@ -34,8 +35,16 @@ public class Main {
             if(!isEvenNumber(number)) {
                 continue;
             }
+
+            evenNumbersFound++;
             System.out.println("Even number found: " + number);
+
+            if(evenNumbersFound >= 5) {
+                break;
+            }
         }
+
+        System.out.println("Total even numbers found: " + evenNumbersFound);
 
     }
 
