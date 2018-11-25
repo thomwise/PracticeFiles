@@ -13,7 +13,7 @@ public class GreatestCommonDivisor {
         int greatestCommonDivider = 0;
         int i = 1;
         while((first >= i) || (second >= i)) {
-            if((first%i == 0) && (second%i == 0)) {
+            if((first % i == 0) && (second % i == 0)) {
                 greatestCommonDivider = i;
             }
             i++;
