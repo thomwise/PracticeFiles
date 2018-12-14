@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4520fe31-2327-4240-9be7-5a699acb0fdc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DiagnolStar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagnolStar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DiagnolStar/src/DiagnolStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagnolStar/src/DiagnolStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccountChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinMaxChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinMaxChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +17,11 @@
     <session id="-1699728057">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -40,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+            <state relative-caret-position="651">
+              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -62,7 +63,7 @@
     <option name="x" value="225" />
     <option name="y" value="31" />
     <option name="width" value="1695" />
-    <option name="height" value="960" />
+    <option name="height" value="742" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -120,7 +121,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="225" y="31" width="1695" height="960" extended-state="0" />
+    <frame x="225" y="31" width="1695" height="742" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -158,8 +159,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+        <state relative-caret-position="651">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
         </state>
       </provider>
     </entry>
