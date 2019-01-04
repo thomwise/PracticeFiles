@@ -9,5 +9,12 @@ public class Main {
 
         dog.eat();
 
+        Fish fish = new Fish("Goldie",2, 3,2,6,2);
+
+//        fish.move(4);
+
+        dog.run();
+
+
     }
 }
