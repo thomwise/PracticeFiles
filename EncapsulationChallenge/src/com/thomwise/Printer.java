@@ -32,16 +32,18 @@ public class Printer {
         }
     }
 
-    public void printPage() {
-        this.numberOfPages = this.numberOfPages + 1;
-        int printedPages = this.numberOfPages;
-        System.out.println(printedPages + " pages printed.");
+    public int printPage(int pages) {
+        int pagesToPrint = pages;
 
-        if(isDuplex) {
+        if(this.isDuplex) {
+            pagesToPrint = (pages / 2) + (pages % 2);
             System.out.println("This printer is a duplex printer.");
-        } else {
-            System.out.println("This is not a duplex printer.");
         }
+        this.numberOfPages += pagesToPrint;
+        return pagesToPrint;
+    }
 
+    public int getNumberOfPages() {
+        return numberOfPages;
     }
 }

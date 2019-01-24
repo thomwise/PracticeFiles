@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de979bb7-7dcd-4bd2-a201-f75c1302ff2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/AreaCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/AreaCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/out/production/AreaCalculator/AreaCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/out/production/AreaCalculator/AreaCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AreaCalculator/src/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AreaCalculator/src/AreaCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/Arrays.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/out/production/Arrays/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bank Account/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank Account/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bank Account/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank Account/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bank Account/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank Account/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bank Account/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank Account/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bank Account/Bank Account.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank Account/Bank Account.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bank Account/out/production/Bank Account/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank Account/out/production/Bank Account/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bank Account/out/production/Bank Account/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank Account/out/production/Bank Account/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bank Account/src/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank Account/src/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bank Account/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bank Account/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccountChallenge/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccountChallenge/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccountChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccountChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccountChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccountChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccountChallenge/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccountChallenge/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccountChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccountChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccountChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccountChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccountChallenge/BankAccountChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccountChallenge/BankAccountChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccountChallenge/out/production/BankAccountChallenge/com/thomwise/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccountChallenge/out/production/BankAccountChallenge/com/thomwise/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccountChallenge/out/production/BankAccountChallenge/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccountChallenge/out/production/BankAccountChallenge/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccountChallenge/out/production/BankAccountChallenge/com/thomwise/VipCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccountChallenge/out/production/BankAccountChallenge/com/thomwise/VipCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccountChallenge/src/com/thomwise/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccountChallenge/src/com/thomwise/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccountChallenge/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccountChallenge/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BankAccountChallenge/src/com/thomwise/VipCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BankAccountChallenge/src/com/thomwise/VipCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/BarkingDog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog/BarkingDog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/out/production/BarkingDog/BarkingDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog/out/production/BarkingDog/BarkingDog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BarkingDog/src/BarkingDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BarkingDog/src/BarkingDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortInt/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortInt/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortInt/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortInt/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortInt/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortInt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortInt/ByteShortInt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt/ByteShortInt.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortInt/out/production/ByteShortInt/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt/out/production/ByteShortInt/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteShortInt/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteShortInt/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatPlaying/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CatPlaying/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatPlaying/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CatPlaying/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatPlaying/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CatPlaying/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatPlaying/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CatPlaying/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatPlaying/CatPlaying.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CatPlaying/CatPlaying.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatPlaying/out/production/CatPlaying/PlayingCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CatPlaying/out/production/CatPlaying/PlayingCat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatPlaying/src/PlayingCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CatPlaying/src/PlayingCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/CharAndBoolean.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/CharAndBoolean.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/out/production/CharAndBoolean/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/out/production/CharAndBoolean/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckDecimals/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckDecimals/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckDecimals/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckDecimals/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckDecimals/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckDecimals/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckDecimals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckDecimals/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckDecimals/CheckDecimals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckDecimals/CheckDecimals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckDecimals/out/production/CheckDecimals/DecimalComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckDecimals/out/production/CheckDecimals/DecimalComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckDecimals/src/DecimalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckDecimals/src/DecimalComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/Composition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/Composition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Case.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Case.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Couch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Couch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Dimensions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Dimensions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Furniture.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Furniture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Lights.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Lights.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Monitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Motherboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Motherboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/PC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/PC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Resolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Resolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Room.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/WindowCovering.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/WindowCovering.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Windows.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/out/production/Composition/com/thomwise/Windows.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/Couch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/Couch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/Dimensions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/Furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/Furniture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/Lights.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/Lights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/Motherboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/Resolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/WindowCovering.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/WindowCovering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/com/thomwise/Windows.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Composition/src/com/thomwise/Windows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Control Flow/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Flow/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Control Flow/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Flow/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Control Flow/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Flow/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Control Flow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Flow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Control Flow/Control Flow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Flow/Control Flow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Control Flow/out/production/Control Flow/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Flow/out/production/Control Flow/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Control Flow/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Control Flow/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeekChallenge/out/production/DayOfTheWeekChallenge/DayOfTheWeekChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/out/production/DayOfTheWeekChallenge/DayOfTheWeekChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DayOfTheWeekChallenge/src/DayOfTheWeekChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/src/DayOfTheWeekChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiagnolStar/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagnolStar/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiagnolStar/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagnolStar/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiagnolStar/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagnolStar/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiagnolStar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagnolStar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiagnolStar/DiagnolStar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagnolStar/DiagnolStar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiagnolStar/out/production/DiagnolStar/DiagnolStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagnolStar/out/production/DiagnolStar/DiagnolStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiagnolStar/src/DiagnolStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DiagnolStar/src/DiagnolStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roll/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dice Roll/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roll/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dice Roll/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roll/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dice Roll/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roll/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dice Roll/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roll/Dice Roll.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dice Roll/Dice Roll.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roll/out/production/Dice Roll/Dice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dice Roll/out/production/Dice Roll/Dice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roll/out/production/Dice Roll/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dice Roll/out/production/Dice Roll/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roll/src/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dice Roll/src/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roll/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dice Roll/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumChallenge/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumChallenge/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumChallenge/DigitSumChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumChallenge/DigitSumChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumChallenge/out/production/DigitSumChallenge/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumChallenge/out/production/DigitSumChallenge/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumChallenge/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumChallenge/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumNew/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumNew/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumNew/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumNew/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumNew/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumNew/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumNew/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumNew/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumNew/DigitSumNew.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumNew/DigitSumNew.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumNew/out/production/DigitSumNew/DigitSumNew.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumNew/out/production/DigitSumNew/DigitSumNew.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DigitSumNew/src/DigitSumNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DigitSumNew/src/DigitSumNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/Encapsulation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/Encapsulation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/thomwise/EnhancedPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/thomwise/EnhancedPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/thomwise/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/thomwise/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/com/thomwise/EnhancedPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/src/com/thomwise/EnhancedPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/com/thomwise/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Encapsulation/src/com/thomwise/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/EncapsulationChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/EncapsulationChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/out/production/EncapsulationChallenge/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/out/production/EncapsulationChallenge/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/out/production/EncapsulationChallenge/com/thomwise/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/out/production/EncapsulationChallenge/com/thomwise/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/src/com/thomwise/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/src/com/thomwise/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Entertainment/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Entertainment/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Entertainment/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Entertainment/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Entertainment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Entertainment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Entertainment/Entertainment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Entertainment/Entertainment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Entertainment/out/production/Entertainment/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Entertainment/out/production/Entertainment/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Entertainment/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Entertainment/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualSumChecker/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualSumChecker/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualSumChecker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualSumChecker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/EqualSumChecker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualSumChecker/EqualSumChecker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/out/production/EqualSumChecker/EqualSumChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualSumChecker/out/production/EqualSumChecker/EqualSumChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualSumChecker/src/EqualSumChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualSumChecker/src/EqualSumChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualityPrinter1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualityPrinter1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualityPrinter1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualityPrinter1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter1/EqualityPrinter1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualityPrinter1/EqualityPrinter1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter1/out/production/EqualityPrinter1/IntEqualityPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualityPrinter1/out/production/EqualityPrinter1/IntEqualityPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EqualityPrinter1/src/IntEqualityPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EqualityPrinter1/src/IntEqualityPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenDigitSum/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenDigitSum/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenDigitSum/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenDigitSum/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenDigitSum/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenDigitSum/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenDigitSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenDigitSum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenDigitSum/EvenDigitSum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenDigitSum/EvenDigitSum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenDigitSum/out/production/EvenDigitSum/EvenDigitSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenDigitSum/out/production/EvenDigitSum/EvenDigitSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenDigitSum/src/EvenDigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenDigitSum/src/EvenDigitSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLastDigitSum/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLastDigitSum/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLastDigitSum/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLastDigitSum/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLastDigitSum/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLastDigitSum/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLastDigitSum/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLastDigitSum/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLastDigitSum/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLastDigitSum/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLastDigitSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLastDigitSum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLastDigitSum/FirstLastDigitSum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLastDigitSum/FirstLastDigitSum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLastDigitSum/out/production/FirstLastDigitSum/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLastDigitSum/out/production/FirstLastDigitSum/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstLastDigitSum/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstLastDigitSum/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/FloatAndDouble.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble/FloatAndDouble.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/out/production/FloatAndDouble/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble/out/production/FloatAndDouble/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatAndDouble/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatAndDouble/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlourPackProblem/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPackProblem/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlourPackProblem/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPackProblem/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlourPackProblem/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPackProblem/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlourPackProblem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPackProblem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlourPackProblem/FlourPackProblem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPackProblem/FlourPackProblem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlourPackProblem/out/production/FlourPackProblem/FlourPacker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPackProblem/out/production/FlourPackProblem/FlourPacker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlourPackProblem/src/FlourPacker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPackProblem/src/FlourPacker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForChallenge/ForChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForChallenge/ForChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForChallenge/out/production/ForChallenge/ForChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ForChallenge/out/production/ForChallenge/ForChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForChallenge/src/ForChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ForChallenge/src/ForChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoop/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoop/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoop/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoop/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoop/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoop/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoop/ForLoop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoop/ForLoop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoop/out/production/ForLoop/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoop/out/production/ForLoop/ForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForLoop/src/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ForLoop/src/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetUserInput/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../GetUserInput/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetUserInput/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GetUserInput/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetUserInput/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GetUserInput/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetUserInput/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GetUserInput/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetUserInput/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GetUserInput/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetUserInput/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GetUserInput/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetUserInput/GetUserInput.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GetUserInput/GetUserInput.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetUserInput/out/production/GetUserInput/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GetUserInput/out/production/GetUserInput/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GetUserInput/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GetUserInput/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisor/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GreatestCommonDivisor/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisor/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GreatestCommonDivisor/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisor/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GreatestCommonDivisor/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GreatestCommonDivisor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisor/GreatestCommonDivisor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../GreatestCommonDivisor/GreatestCommonDivisor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisor/out/production/GreatestCommonDivisor/GreatestCommonDivisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GreatestCommonDivisor/out/production/GreatestCommonDivisor/GreatestCommonDivisor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GreatestCommonDivisor/src/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GreatestCommonDivisor/src/GreatestCommonDivisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guessing Game/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Guessing Game/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guessing Game/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Guessing Game/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guessing Game/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Guessing Game/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guessing Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Guessing Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guessing Game/Guessing Game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Guessing Game/Guessing Game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guessing Game/out/production/Guessing Game/GuessingGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Guessing Game/out/production/Guessing Game/GuessingGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guessing Game/src/GuessingGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Guessing Game/src/GuessingGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Guessing Game/src/GuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Guessing Game/src/GuessingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heads or Tails/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Heads or Tails/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heads or Tails/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Heads or Tails/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heads or Tails/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Heads or Tails/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heads or Tails/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Heads or Tails/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heads or Tails/Heads or Tails.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Heads or Tails/Heads or Tails.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heads or Tails/out/production/Heads or Tails/Coin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Heads or Tails/out/production/Heads or Tails/Coin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heads or Tails/out/production/Heads or Tails/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Heads or Tails/out/production/Heads or Tails/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heads or Tails/src/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Heads or Tails/src/Coin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Heads or Tails/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Heads or Tails/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello World/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello World/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello World/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello World/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World/Hello World.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello World/Hello World.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World/out/production/Hello World/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello World/out/production/Hello World/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World/out/production/Hello World/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello World/out/production/Hello World/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World/out/production/Hello World/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello World/out/production/Hello World/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello World/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello World/src/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hello World/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Hello World/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/com/thomwise/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/com/thomwise/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/com/thomwise/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/com/thomwise/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/com/thomwise/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/com/thomwise/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/com/thomwise/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/com/thomwise/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/com/thomwise/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/com/thomwise/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/com/thomwise/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/com/thomwise/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/InheritanceChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/InheritanceChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/out/production/InheritanceChallenge/com/thomwise/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/out/production/InheritanceChallenge/com/thomwise/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/out/production/InheritanceChallenge/com/thomwise/FordTransit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/out/production/InheritanceChallenge/com/thomwise/FordTransit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/out/production/InheritanceChallenge/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/out/production/InheritanceChallenge/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/out/production/InheritanceChallenge/com/thomwise/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/out/production/InheritanceChallenge/com/thomwise/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/src/com/thomwise/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/src/com/thomwise/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/src/com/thomwise/FordTransit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/src/com/thomwise/FordTransit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceChallenge/src/com/thomwise/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceChallenge/src/com/thomwise/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsOdd/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../IsOdd/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsOdd/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IsOdd/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsOdd/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IsOdd/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsOdd/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IsOdd/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsOdd/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IsOdd/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsOdd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IsOdd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsOdd/IsOdd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../IsOdd/IsOdd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsOdd/out/production/IsOdd/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IsOdd/out/production/IsOdd/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IsOdd/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IsOdd/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/KeywordsAndExpressions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/KeywordsAndExpressions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/out/production/KeywordsAndExpressions/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/out/production/KeywordsAndExpressions/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeywordsAndExpressions/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LargestPrime/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LargestPrime/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LargestPrime/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LargestPrime/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LargestPrime/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LargestPrime/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LargestPrime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LargestPrime/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LargestPrime/LargestPrime.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LargestPrime/LargestPrime.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LargestPrime/out/production/LargestPrime/LargestPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LargestPrime/out/production/LargestPrime/LargestPrime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LargestPrime/src/LargestPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LargestPrime/src/LargestPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/LeapYear.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/LeapYear.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/out/production/LeapYear/LeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/out/production/LeapYear/LeapYear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYear/src/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYear/src/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/MegaBytesConverter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter/MegaBytesConverter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/out/production/MegaBytesConverter/MegaBytesConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter/out/production/MegaBytesConverter/MegaBytesConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MegaBytesConverter/src/MegaBytesConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MegaBytesConverter/src/MegaBytesConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodOverloading/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodOverloading/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodOverloading/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodOverloading/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodOverloading/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodOverloading/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/MethodOverloading.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodOverloading/MethodOverloading.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/out/production/MethodOverloading/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodOverloading/out/production/MethodOverloading/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MethodOverloading/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MethodOverloading/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinMaxChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinMaxChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinMaxChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinMaxChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinMaxChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinMaxChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinMaxChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinMaxChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinMaxChallenge/MinMaxChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinMaxChallenge/MinMaxChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinMaxChallenge/out/production/MinMaxChallenge/MinMaxChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MinMaxChallenge/out/production/MinMaxChallenge/MinMaxChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinMaxChallenge/src/MinMaxChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MinMaxChallenge/src/MinMaxChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsCalculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinutesToYearsCalculator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsCalculator/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinutesToYearsCalculator/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsCalculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinutesToYearsCalculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinutesToYearsCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsCalculator/MinutesToYearsCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinutesToYearsCalculator/MinutesToYearsCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsCalculator/out/production/MinutesToYearsCalculator/MinutesToYearsDaysCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MinutesToYearsCalculator/out/production/MinutesToYearsCalculator/MinutesToYearsDaysCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinutesToYearsCalculator/src/MinutesToYearsDaysCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MinutesToYearsCalculator/src/MinutesToYearsDaysCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalindrome/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberPalindrome/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalindrome/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberPalindrome/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalindrome/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberPalindrome/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalindrome/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberPalindrome/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalindrome/NumberPalindrome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberPalindrome/NumberPalindrome.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalindrome/out/production/NumberPalindrome/com/thomwise/NumberPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberPalindrome/out/production/NumberPalindrome/com/thomwise/NumberPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberPalindrome/src/NumberPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberPalindrome/src/NumberPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToString/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToString/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToString/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToString/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToString/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToString/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToString/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToString/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToString/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToString/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToString/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToString/NumbersToString.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToString/NumbersToString.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToString/out/production/NumbersToString/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToString/out/production/NumbersToString/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToString/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToString/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToWords/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToWords/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToWords/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToWords/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToWords/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToWords/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToWords/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToWords/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToWords/NumbersToWords.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToWords/NumbersToWords.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToWords/out/production/NumbersToWords/PACKAGE_NAME/NumberToWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToWords/out/production/NumbersToWords/PACKAGE_NAME/NumberToWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumbersToWords/src/NumberToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NumbersToWords/src/NumberToWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/Operators.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/Operators.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/out/production/Operators/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/out/production/Operators/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumber/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PerfectNumber/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumber/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PerfectNumber/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumber/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PerfectNumber/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PerfectNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumber/PerfectNumber.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PerfectNumber/PerfectNumber.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumber/out/production/PerfectNumber/PerfectNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PerfectNumber/out/production/PerfectNumber/PerfectNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PerfectNumber/src/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PerfectNumber/src/PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice Files 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice Files 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintFactor/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintFactor/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintFactor/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintFactor/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintFactor/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintFactor/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintFactor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintFactor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintFactor/PrintFactor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintFactor/PrintFactor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintFactor/out/production/PrintFactor/PrintFactor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintFactor/out/production/PrintFactor/PrintFactor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintFactor/src/PrintFactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintFactor/src/PrintFactor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintNumberInWord/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintNumberInWord/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintNumberInWord/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintNumberInWord/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintNumberInWord/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintNumberInWord/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintNumberInWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintNumberInWord/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintNumberInWord/PrintNumberInWord.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintNumberInWord/PrintNumberInWord.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrintNumberInWord/src/PrintNumberInWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PrintNumberInWord/src/PrintNumberInWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pyramid/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pyramid/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pyramid/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pyramid/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pyramid/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pyramid/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pyramid/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pyramid/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pyramid/Pyramid.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pyramid/Pyramid.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pyramid/out/production/Pyramid/Pyramid.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Pyramid/out/production/Pyramid/Pyramid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pyramid/src/Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pyramid/src/Pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/ReadingUserInputChallenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/ReadingUserInputChallenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/out/production/ReadingUserInputChallenge/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInputChallenge/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInputChallenge/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SameLastDigit/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SameLastDigit/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SameLastDigit/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SameLastDigit/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SameLastDigit/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SameLastDigit/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SameLastDigit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SameLastDigit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SameLastDigit/SameLastDigit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SameLastDigit/SameLastDigit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SameLastDigit/out/production/SameLastDigit/SameLastDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SameLastDigit/out/production/SameLastDigit/SameLastDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SameLastDigit/src/SameLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SameLastDigit/src/SameLastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes1/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SecondsAndMinutes1/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SecondsAndMinutes1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SecondsAndMinutes1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes1/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SecondsAndMinutes1/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SecondsAndMinutes1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SecondsAndMinutes1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes1/SecondsAndMinutes1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SecondsAndMinutes1/SecondsAndMinutes1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes1/out/production/SecondsAndMinutes1/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SecondsAndMinutes1/out/production/SecondsAndMinutes1/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SecondsAndMinutes1/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SecondsAndMinutes1/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigit/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SharedDigit/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigit/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SharedDigit/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigit/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SharedDigit/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SharedDigit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigit/SharedDigit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SharedDigit/SharedDigit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigit/out/production/SharedDigit/SharedDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SharedDigit/out/production/SharedDigit/SharedDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SharedDigit/src/SharedDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SharedDigit/src/SharedDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/Strings.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/Strings.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/out/production/Strings/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/out/production/Strings/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strings/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Strings/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/Switch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/Switch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/out/production/Switch/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/out/production/Switch/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenChecker/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TeenChecker/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenChecker/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TeenChecker/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenChecker/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TeenChecker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenChecker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TeenChecker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenChecker/TeenChecker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TeenChecker/TeenChecker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenChecker/out/production/TeenChecker/TeenNumberChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TeenChecker/out/production/TeenChecker/TeenNumberChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeenChecker/src/TeenNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TeenChecker/src/TeenNumberChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy1/Udemy1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy1/Udemy1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy1/out/production/Udemy1/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy1/out/production/Udemy1/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy1/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy1/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../While/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../While/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../While/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../While/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../While/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../While/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../While/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../While/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../While/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../While/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../While/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../While/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../While/While.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../While/While.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../While/out/production/While/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../While/out/production/While/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../While/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../While/src/com/thomwise/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
+              <folding>
+                <element signature="e#92#93#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/thomwise/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="7" />
+    <option name="y" value="265" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548133166423" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.thomwise.Main" />
+      <module name="Polymorphism" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de979bb7-7dcd-4bd2-a201-f75c1302ff2e" name="Default Changelist" comment="" />
+      <created>1548108459719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548108459719</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="23" width="1280" height="709" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32901135" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info active="true" anchor="right" x="22" y="276" width="1238" height="203" id="Run" order="8" visible="true" weight="0.32875606" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+          <folding>
+            <element signature="e#32010#32011#0" expanded="true" />
+            <element signature="e#32095#32096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
