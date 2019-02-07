@@ -8,7 +8,7 @@ public class Hamburger {
     private boolean onions;
     private boolean lettuce;
     private boolean secretSauce;
-    private double baseBurgerCost;
+    public double baseBurgerCost;
     private double totalBurgerCost;
 
     public Hamburger(String breadRollType, String meat) {

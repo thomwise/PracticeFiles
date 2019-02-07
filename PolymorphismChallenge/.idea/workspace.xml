@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="575f2d43-cfd3-46ff-a903-d2ebaa1cf65f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../OOPTest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPTest/OOPTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPTest/src/com/thomwise/DeluxeBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPTest/src/com/thomwise/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPTest/src/com/thomwise/HealthyBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPTest/out/production/OOPTest/com/thomwise/HealthyBurger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPTest/out/production/OOPTest/com/thomwise/HealthyBurger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPTest/out/production/OOPTest/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPTest/out/production/OOPTest/com/thomwise/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPTest/src/com/thomwise/DeluxeBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPTest/src/com/thomwise/DeluxeBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPTest/src/com/thomwise/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPTest/src/com/thomwise/Hamburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPTest/src/com/thomwise/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPTest/src/com/thomwise/HealthyBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPTest/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPTest/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

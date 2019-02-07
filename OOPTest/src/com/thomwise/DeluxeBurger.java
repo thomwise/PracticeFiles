@@ -10,4 +10,17 @@ public class DeluxeBurger extends Hamburger {
         this.chips = chips;
         this.drink = drink;
     }
+
+    public String getChips() {
+        return chips;
+    }
+
+    public String getDrink() {
+        return drink;
+    }
+
+    @Override
+    public double getBaseBurgerCost() {
+        return 6.50;
+    }
 }
