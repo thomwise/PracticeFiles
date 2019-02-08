@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3500f10c-e284-4ca8-9ed1-4dfe992245a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../OOPTestSolution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPTestSolution/src/com/thomwise/DeluxeBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPTestSolution/src/com/thomwise/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPTestSolution/src/com/thomwise/HealthyBurger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPTest/com/thomwise/HealthyBurger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPTest/com/thomwise/HealthyBurger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPTest/com/thomwise/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPTest/com/thomwise/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/thomwise/DeluxeBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thomwise/DeluxeBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/thomwise/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thomwise/Hamburger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/thomwise/HealthyBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thomwise/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thomwise/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="433">
-              <caret line="33" column="216" lean-forward="true" selection-start-line="33" selection-start-column="216" selection-end-line="33" selection-end-column="216" />
+              <caret line="33" column="216" selection-start-line="33" selection-start-column="216" selection-end-line="33" selection-end-column="216" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/thomwise/Hamburger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="-128">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
               <folding>
                 <element signature="e#1036#1037#0" expanded="true" />
                 <element signature="e#1057#1058#0" expanded="true" />
@@ -69,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/thomwise/DeluxeBurger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#340#341#0" expanded="true" />
                 <element signature="e#368#369#0" expanded="true" />
@@ -144,7 +142,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549559269967" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549588412742" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -224,7 +222,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/thomwise/DeluxeBurger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#340#341#0" expanded="true" />
             <element signature="e#368#369#0" expanded="true" />
@@ -253,23 +251,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thomwise/Hamburger.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="433">
+          <caret line="33" column="216" selection-start-line="33" selection-start-column="216" selection-end-line="33" selection-end-column="216" />
           <folding>
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/thomwise/Hamburger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="33" column="216" lean-forward="true" selection-start-line="33" selection-start-column="216" selection-end-line="33" selection-end-column="216" />
+        <state relative-caret-position="-128">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1057#1058#0" expanded="true" />
           </folding>
         </state>
       </provider>
