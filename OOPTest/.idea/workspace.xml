@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3500f10c-e284-4ca8-9ed1-4dfe992245a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../OOPTestSolution/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPTestSolution/src/com/thomwise/DeluxeBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPTestSolution/src/com/thomwise/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOPTestSolution/src/com/thomwise/HealthyBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPTestSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPTestSolution/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -142,7 +136,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549588412742" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549646353432" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -188,7 +182,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1280" height="709" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -215,7 +208,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.32875606" />
+      <window_info anchor="right" id="Run" order="8" weight="0.32875606" />
     </layout>
   </component>
   <component name="editorHistoryManager">
