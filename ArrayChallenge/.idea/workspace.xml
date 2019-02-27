@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8640f586-dbb3-460a-b028-a486b20f01ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays2/Arrays2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPTestSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPTestSolution/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FCC1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FCC1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FCC1/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FCC1/src/TaskList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinElementChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReferencesVsValueTypes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReferencesVsValueTypes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReverseArrayChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thomwise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,9 +49,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="573" />
+    <option name="x" value="567" />
     <option name="y" value="23" />
-    <option name="width" value="715" />
+    <option name="width" value="679" />
     <option name="height" value="709" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,7 +62,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550168032645" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550253153256" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,7 +107,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="573" y="23" width="715" height="709" extended-state="0" />
+    <frame x="567" y="23" width="679" height="709" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.37545565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -114,7 +119,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32901135" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32901135" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -136,8 +141,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

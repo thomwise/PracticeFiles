@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="575f2d43-cfd3-46ff-a903-d2ebaa1cf65f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MinElementChallenge/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="12d11a93-c721-4ebf-be66-9cac88e897ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FCC1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FCC1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FCC1/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FCC1/src/TaskList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ReferencesVsValueTypes/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ReferencesVsValueTypes/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayChallenge/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayChallenge/src/com/thomwise/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrays2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,12 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="79" selection-start-line="79" selection-end-line="79" />
-              <folding>
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="561">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -44,20 +45,24 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="628" />
+    <option name="x" value="1" />
     <option name="y" value="23" />
-    <option name="width" value="652" />
-    <option name="height" value="709" />
+    <option name="width" value="704" />
+    <option name="height" value="668" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548388243257" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550853716064" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -74,7 +79,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.thomwise.Main" />
-      <module name="PolymorphismChallenge" />
+      <module name="MinElementChallenge" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -93,55 +98,51 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="575f2d43-cfd3-46ff-a903-d2ebaa1cf65f" name="Default Changelist" comment="" />
-      <created>1548365358780</created>
+      <changelist id="12d11a93-c721-4ebf-be66-9cac88e897ce" name="Default Changelist" comment="" />
+      <created>1550323363721</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548365358780</updated>
+      <updated>1550323363721</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="628" y="23" width="652" height="709" extended-state="0" />
+    <frame x="1" y="23" width="704" height="668" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24959612" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15085158" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32901135" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Maven" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.32875606" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298611" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-          <folding>
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="561">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
         </state>
       </provider>
     </entry>
