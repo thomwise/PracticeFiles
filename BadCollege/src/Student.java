@@ -4,7 +4,6 @@ public class Student {
 
     private String name;
     private int id;
-    private int creditsEarned;
     private String major;
     private double gpa;
     public ArrayList<Section> schedule;
@@ -28,14 +27,6 @@ public class Student {
         this.id = id;
     }
 
-    public int getCreditsEarned() {
-        return creditsEarned;
-    }
-
-    public void setCreditsEarned(int creditsEarned) {
-        this.creditsEarned = creditsEarned;
-    }
-
     public String getMajor() {
         return major;
     }
@@ -52,13 +43,16 @@ public class Student {
         this.gpa = gpa;
     }
 
-    public Student(String name, String major) {
+    public Student(String name, String major, double gpa) {
         this.name = name;
         this.major = major;
         this.id = nextId++;
-        this.creditsEarned = 0;
-        this.gpa = 4.0;
+        this.gpa = gpa;
         this.schedule = new ArrayList<Section>();
+    }
+
+    public static Student createStudent(String name, String major, double gpa) {
+        return new Student(name, major, gpa);
     }
 
     @Override
@@ -72,11 +66,9 @@ public class Student {
         return "Student{" +
                 "name='" + name + '\'' +
                 ", id=" + id +
-                ", creditsEarned=" + creditsEarned +
                 ", major='" + major + '\'' +
                 ", gpa=" + gpa +
-                ", schedule=" + schedule +
-                "}\n" + sched;
+                ", schedule=\n" + sched;
     }
 
     public boolean enroll(Section course) {

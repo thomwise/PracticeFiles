@@ -69,5 +69,8 @@ public class Section {
         this.capacity = 3;
     }
 
+    public static Section createCourse(String course, String term, String meetingDayAndTimes) {
+        return new Section(course, term, meetingDayAndTimes);
+    }
 
 }
