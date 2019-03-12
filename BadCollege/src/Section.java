@@ -56,6 +56,10 @@ public class Section {
         return instructor;
     }
 
+    public ArrayList<Student> getRoster() {
+        return roster;
+    }
+
     public void setInstructor(Faculty instructor) {
         this.instructor = instructor;
     }

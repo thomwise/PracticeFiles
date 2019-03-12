@@ -6,10 +6,16 @@ public class Main {
 
     public static void main(String[] args) {
 
+        studentMenu();
+
+
+    }
+
+    private static void studentMenu() {
         boolean quit = false;
         printActions();
         while (!quit) {
-            System.out.println("\nEnter action: (7 to show available actions)");
+            System.out.println("\nEnter action: (8 to show available actions)");
             int action = scanner.nextInt();
             scanner.nextLine();
 
@@ -39,17 +45,21 @@ public class Main {
                 case 7:
                     administratorMenu();
                     break;
-                }
+                case 8:
+                    printActions();
+                    break;
             }
-
+        }
     }
 
     private static void administratorMenu() {
 
-        System.out.println("Input new class");
-        int action = scanner.nextInt();
         boolean quit = false;
+        printAdminActions();
         while(!quit) {
+            System.out.println("\nEnter Action: ");
+            int action = scanner.nextInt();
+            scanner.nextLine();
             switch (action) {
                 case 1:
                     addCourse();
@@ -61,10 +71,26 @@ public class Main {
                     removeCourse();
                     break;
                 case 4:
+                    displayRoster();
+                    break;
+                case 5:
                     quit = true;
                     break;
             }
         }
+    }
+
+    private static void displayRoster() {
+        System.out.println("Enter course title to display roster: ");
+        String title = scanner.nextLine();
+        Section existingCourse = database.queryCourse(title);
+        if(existingCourse == null) {
+            System.out.println("Course not found");
+            return;
+        } else if(existingCourse.getRoster() == null) {
+            System.out.println("No students registered for course.");
+        }
+            System.out.println(existingCourse.getRoster());
     }
 
     private static void addCourse() {
@@ -92,6 +118,34 @@ public class Main {
         if(existingCourse == null) {
             System.out.println("Course not found");
             return;
+        }
+
+        System.out.println("Change course title to: ");
+        String newTitle = scanner.nextLine();
+        System.out.println("Change term to: ");
+        String newTerm = scanner.nextLine();
+        System.out.println("Change meeting days and times to: ");
+        String newMeetingDaysAndTimes = scanner.nextLine();
+        Section modifiedCourse = Section.createCourse(newTitle, newTerm, newMeetingDaysAndTimes);
+        if(database.updateCourse(existingCourse, modifiedCourse)) {
+            System.out.println("Successfully updated " + newTitle);
+        }
+
+    }
+
+    private static void removeCourse() {
+        System.out.println("Enter existing course name: ");
+        String name = scanner.nextLine();
+        Section existingCourse = database.queryCourse(name);
+        if(existingCourse == null) {
+            System.out.println("Course not found.");
+            return;
+        }
+
+        if(database.removeCourse(existingCourse)) {
+            System.out.println(existingCourse + " successfully deleted.");
+        } else {
+            System.out.println("Error deleting course.");
         }
     }
 
@@ -188,6 +242,7 @@ public class Main {
         potions.setInstructor(snape);
         defense.setInstructor(dumbledore);
 
+
         Student existingStudent = database.queryStudent(name);
         if (existingStudent == null) {
             System.out.println("Student not found");
@@ -205,6 +260,7 @@ public class Main {
                 System.out.println("Enrolling student in defense against the dark arts class.");
                 existingStudent.enroll(defense);
                 break;
+
         }
         System.out.println(existingStudent.toString());
     }
@@ -218,7 +274,15 @@ public class Main {
                             "4 - to remove a student\n" +
                             "5 - to search for and display student info\n" +
                             "6 - to enroll student in a class\n" +
-                            "7 - to print list of available actions");
-        System.out.println("Choose your action: ");
+                            "7 - to enter in administrative menu");
+    }
+
+    private static void printAdminActions() {
+        System.out.println("\nAvailable Administrative Actions:\npress");
+        System.out.println( "1 - to add a course\n" +
+                            "2 - to modify a course\n" +
+                            "3 - to remove a course\n" +
+                            "4 - to display roster for a course\n" +
+                            "5 - to exit program");
     }
 }

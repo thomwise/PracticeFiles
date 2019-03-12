@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc8ba48c-58fc-4029-920b-d2198cb9409b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AmazonChoice/AmazonChoice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AmazonChoice/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AmazonChoice/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thomwise/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BadCollege/src/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Restaurant/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Restaurant/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Restaurant/Restaurant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Restaurant/src/com/thomwise/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwordAndBoard/src/Effect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwordAndBoard/src/Ninja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwordAndBoard/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonChoice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazonChoice/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/thomwise/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thomwise/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thomwise/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BadCollege/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BadCollege/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BadCollege/out/production/BadCollege/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BadCollege/out/production/BadCollege/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BadCollege/out/production/BadCollege/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BadCollege/out/production/BadCollege/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BadCollege/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BadCollege/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BadCollege/src/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BadCollege/src/Section.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BadCollege/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BadCollege/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GroceryList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GroceryList/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1785">
-              <caret line="119" column="51" selection-start-line="119" selection-start-column="51" selection-end-line="119" selection-end-column="51" />
+            <state relative-caret-position="117">
+              <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
               <folding>
                 <element signature="e#3810#3811#0" expanded="true" />
               </folding>
@@ -134,7 +121,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551808310470" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551910912504" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,7 +182,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32901135" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32901135" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32901135" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -237,8 +224,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="119" column="51" selection-start-line="119" selection-start-column="51" selection-end-line="119" selection-end-column="51" />
+        <state relative-caret-position="117">
+          <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
           <folding>
             <element signature="e#3810#3811#0" expanded="true" />
           </folding>

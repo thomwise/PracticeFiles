@@ -5,6 +5,7 @@ public class Database {
     private ArrayList<Student> students;
     private ArrayList<Section> sections;
     private ArrayList<Faculty> faculty;
+    private Section roster;
 
     public Database(int year) {
         this.year = year;
@@ -37,6 +38,27 @@ public class Database {
         return null;
     }
 
+    public boolean updateCourse(Section oldCourse, Section newCourse) {
+        int foundPosition = findCourse(oldCourse);
+        if(foundPosition < 0) {
+            System.out.println(oldCourse.getCourse() + " not found.");
+            return false;
+        }
+        this.sections.set(foundPosition, newCourse);
+        System.out.println(oldCourse.getCourse() + " was replaced with " + newCourse.getCourse());
+        return true;
+    }
+
+    public boolean showRoster(Section course) {
+        int foundPosition = findCourse(course);
+        if(foundPosition < 0) {
+            System.out.println(course.getCourse() + " not found.");
+            return false;
+        }
+        this.roster.getRoster();
+        return true;
+    }
+
     private int findCourse(Section course) {
         return this.sections.indexOf(course);
     }
@@ -49,6 +71,17 @@ public class Database {
             }
         }
         return -1;
+    }
+
+    public boolean removeCourse(Section course) {
+        int foundPosition = findCourse(course);
+        if(foundPosition < 0) {
+            System.out.println(course.getCourse() + ", was not found.");
+            return false;
+        }
+        this.sections.remove(foundPosition);
+        System.out.println(course.getCourse() + ", was successfully deleted.");
+        return true;
     }
 
     public boolean addNewStudent(Student student) {

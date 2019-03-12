@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f076197-2ed1-47fc-acd7-e932091ca119" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AmazonChoice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/thomwise/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../BadCollege/src/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Restaurant/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Restaurant/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Restaurant/Restaurant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Restaurant/src/com/thomwise/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/thomwise/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/thomwise/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/thomwise/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BadCollege/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BadCollege/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BadCollege/out/production/BadCollege/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BadCollege/out/production/BadCollege/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BadCollege/out/production/BadCollege/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BadCollege/out/production/BadCollege/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BadCollege/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BadCollege/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BadCollege/src/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BadCollege/src/Section.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BadCollege/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BadCollege/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GroceryList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GroceryList/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7f076197-2ed1-47fc-acd7-e932091ca119" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +124,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551809616922" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551810207028" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,7 +185,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32901135" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32901135" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32901135" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3987034" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

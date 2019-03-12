@@ -2,25 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228d1717-0dfa-4540-a596-96dffd62f5d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AmazonChoice/AmazonChoice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AmazonChoice/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AmazonChoice/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/thomwise/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Restaurant/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Restaurant/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Restaurant/Restaurant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Restaurant/src/com/thomwise/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwordAndBoard/src/Barbarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwordAndBoard/src/Effect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwordAndBoard/src/Ninja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwordAndBoard/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AmazonChoice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AmazonChoice/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/thomwise/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/thomwise/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/thomwise/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BadCollege/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BadCollege/Database.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BadCollege/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BadCollege/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BadCollege/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BadCollege/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BadCollege/Section.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BadCollege/Section.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GroceryList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GroceryList/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-273">
-              <caret line="93" column="19" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+            <state relative-caret-position="1037">
+              <caret line="261" column="22" selection-start-line="261" selection-start-column="22" selection-end-line="261" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -43,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+            <state relative-caret-position="538">
+              <caret line="93" column="5" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
               <folding>
                 <element signature="e#584#585#0" expanded="true" />
                 <element signature="e#629#630#0" expanded="true" />
@@ -58,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+            <state relative-caret-position="142">
+              <caret line="71" column="5" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="24" />
               <folding>
                 <element signature="e#1065#1066#0" expanded="true" />
                 <element signature="e#1117#1118#0" expanded="true" />
@@ -71,8 +65,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Section.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="678">
-              <caret line="72" column="61" selection-start-line="72" selection-start-column="61" selection-end-line="72" selection-end-column="61" />
+            <state relative-caret-position="795">
+              <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+              <folding>
+                <element signature="e#1160#1161#0" expanded="true" />
+                <element signature="e#1189#1190#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,6 +93,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>roster</find>
+      <find>que</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -112,7 +116,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="1" />
     <option name="y" value="23" />
-    <option name="width" value="682" />
+    <option name="width" value="1093" />
     <option name="height" value="709" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -142,7 +146,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551808310502" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552409354482" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -184,8 +188,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="682" height="709" extended-state="0" />
-    <editor active="true" />
+    <frame x="1" y="23" width="1093" height="709" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24943566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -196,15 +199,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21393842" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5559157" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32901135" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32901135" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -225,8 +228,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        <state relative-caret-position="142">
+          <caret line="71" column="5" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="24" />
           <folding>
             <element signature="e#1065#1066#0" expanded="true" />
             <element signature="e#1117#1118#0" expanded="true" />
@@ -236,15 +239,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Section.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="72" column="61" selection-start-line="72" selection-start-column="61" selection-end-line="72" selection-end-column="61" />
+        <state relative-caret-position="795">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+          <folding>
+            <element signature="e#1160#1161#0" expanded="true" />
+            <element signature="e#1189#1190#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Database.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        <state relative-caret-position="538">
+          <caret line="93" column="5" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
           <folding>
             <element signature="e#584#585#0" expanded="true" />
             <element signature="e#629#630#0" expanded="true" />
@@ -256,8 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-273">
-          <caret line="93" column="19" selection-start-line="93" selection-start-column="19" selection-end-line="93" selection-end-column="19" />
+        <state relative-caret-position="1037">
+          <caret line="261" column="22" selection-start-line="261" selection-start-column="22" selection-end-line="261" selection-end-column="22" />
         </state>
       </provider>
     </entry>
