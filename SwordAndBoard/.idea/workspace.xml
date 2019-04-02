@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2be73c8a-788a-4769-bd41-7c40dd2ed926" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/src/com/thomwise/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/src/com/thomwise/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/src/com/thomwise/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/LinkedList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BadCollege/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BadCollege/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,9 +94,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="79" />
-    <option name="y" value="39" />
+    <option name="y" value="23" />
     <option name="width" value="1029" />
     <option name="height" value="709" />
   </component>
@@ -175,7 +172,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="79" y="39" width="1029" height="709" extended-state="1" />
+    <frame x="79" y="23" width="1029" height="709" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.254306" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

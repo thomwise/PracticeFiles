@@ -42,7 +42,7 @@ public class Main {
         while(stringListIterator.hasNext()) {
             int comparison = stringListIterator.next().compareTo(newCity);
             if (comparison == 0) {
-                System.out.println(newCity + " is already iincluded as a destination");
+                System.out.println(newCity + " is already included as a destination");
                 return false;
             } else if (comparison > 0) {
                 stringListIterator.previous();
