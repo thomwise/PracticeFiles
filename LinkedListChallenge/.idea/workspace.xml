@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e681f93-c0a3-419e-9d41-3a9e6f087d96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thomwise/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thomwise/Song.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutoboxingAndUnboxing/src/com/thomwise/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/src/com/thomwise/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/src/com/thomwise/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/thomwise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thomwise/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SwordAndBoard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SwordAndBoard/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="107" column="96" selection-start-line="107" selection-start-column="96" selection-end-line="107" selection-end-column="96" />
+            <state relative-caret-position="272">
+              <caret line="127" column="88" selection-start-line="127" selection-start-column="88" selection-end-line="127" selection-end-column="88" />
             </state>
           </provider>
         </entry>
@@ -50,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/thomwise/Album.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
+            <state relative-caret-position="570">
               <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -95,7 +83,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553615090422" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554489409173" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,7 +129,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="160" y="23" width="1029" height="709" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24924012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -152,15 +139,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32901135" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32901135" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -169,10 +155,18 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.44275582" />
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/thomwise/Playlist.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="127" column="88" selection-start-line="127" selection-start-column="88" selection-end-line="127" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/thomwise/Song.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -186,18 +180,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/thomwise/Album.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
+        <state relative-caret-position="570">
           <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/thomwise/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="107" column="96" selection-start-line="107" selection-start-column="96" selection-end-line="107" selection-end-column="96" />
         </state>
       </provider>
     </entry>
